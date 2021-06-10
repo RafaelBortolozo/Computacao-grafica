@@ -1,0 +1,25 @@
+﻿  circulo.cpp
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(38,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(41,23): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(42,42): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(42,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(50,23): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(51,42): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(51,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(56,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(69,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(72,23): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(73,42): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(73,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(78,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(81,23): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(82,42): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(82,24): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(87,26): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(102,28): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(105,23): warning C4244: '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(106,47): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(106,25): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(111,28): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\Rafael Bortolozo\source\repos\circulo\circulo\circulo.cpp(136,33): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  circulo.vcxproj -> C:\Users\Rafael Bortolozo\source\repos\circulo\Debug\circulo.exe
