@@ -1,0 +1,4 @@
+﻿  DesenhoMouse.cpp
+C:\Users\Rafael Bortolozo\source\repos\DesenhoMouse\DesenhoMouse\DesenhoMouse.cpp(55,13): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\Rafael Bortolozo\source\repos\DesenhoMouse\DesenhoMouse\DesenhoMouse.cpp(56,17): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  DesenhoMouse.vcxproj -> C:\Users\Rafael Bortolozo\source\repos\DesenhoMouse\Debug\DesenhoMouse.exe
